@@ -1,4 +1,4 @@
-#Latihan soal M9 Praktikum Alpro
+#Latihan soal M9 Praktikum Algoritma dan Pemrograman
 #Nomor 1
 waktu=10
 while waktu > 0 :
